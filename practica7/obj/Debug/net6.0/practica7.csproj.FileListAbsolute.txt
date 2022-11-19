@@ -1,0 +1,15 @@
+C:\Users\kamil\OneDrive\Escritorio\deberes\practica7\bin\Debug\net6.0\practica7.exe
+C:\Users\kamil\OneDrive\Escritorio\deberes\practica7\bin\Debug\net6.0\practica7.deps.json
+C:\Users\kamil\OneDrive\Escritorio\deberes\practica7\bin\Debug\net6.0\practica7.runtimeconfig.json
+C:\Users\kamil\OneDrive\Escritorio\deberes\practica7\bin\Debug\net6.0\practica7.dll
+C:\Users\kamil\OneDrive\Escritorio\deberes\practica7\bin\Debug\net6.0\practica7.pdb
+C:\Users\kamil\OneDrive\Escritorio\deberes\practica7\obj\Debug\net6.0\practica7.csproj.AssemblyReference.cache
+C:\Users\kamil\OneDrive\Escritorio\deberes\practica7\obj\Debug\net6.0\practica7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\OneDrive\Escritorio\deberes\practica7\obj\Debug\net6.0\practica7.AssemblyInfoInputs.cache
+C:\Users\kamil\OneDrive\Escritorio\deberes\practica7\obj\Debug\net6.0\practica7.AssemblyInfo.cs
+C:\Users\kamil\OneDrive\Escritorio\deberes\practica7\obj\Debug\net6.0\practica7.csproj.CoreCompileInputs.cache
+C:\Users\kamil\OneDrive\Escritorio\deberes\practica7\obj\Debug\net6.0\practica7.dll
+C:\Users\kamil\OneDrive\Escritorio\deberes\practica7\obj\Debug\net6.0\refint\practica7.dll
+C:\Users\kamil\OneDrive\Escritorio\deberes\practica7\obj\Debug\net6.0\practica7.pdb
+C:\Users\kamil\OneDrive\Escritorio\deberes\practica7\obj\Debug\net6.0\practica7.genruntimeconfig.cache
+C:\Users\kamil\OneDrive\Escritorio\deberes\practica7\obj\Debug\net6.0\ref\practica7.dll
